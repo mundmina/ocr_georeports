@@ -1,0 +1,9 @@
+# Generated OCR artifacts and local runtime files
+output/
+tmp/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Source scans are supplied locally and should not be committed by default.
+*.pdf
